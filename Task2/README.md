@@ -8,10 +8,7 @@ It is a **personal landing page** showcasing my LinkedIn profile, skills, educat
 ## 🔗 Deployment
 Live Demo: [Click Here](https://codsoft-l4z5.vercel.app/)
 
----
 
-## 🖼️ Project Preview
-![Landing Page Preview](photo.jpeg)
 
 ---
 
